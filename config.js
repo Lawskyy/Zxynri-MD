@@ -5,9 +5,9 @@
 // RECODE BY ZIFABOTZ
 
 //=============『 Utama 』================== //
-global.owner = ['6281251549899'] //ganti pakai nomormu biar bot berfungsi
-global.mods = ['6281251549899'] //ganti pakai nomormu biar bot berfungsi
-global.prems = ['6281251549899'] //ganti pakai nomormu biar bot berfungsi
+global.owner = ['6285876617548'] //ganti pakai nomormu biar bot berfungsi
+global.mods = ['6285876617548'] //ganti pakai nomormu biar bot berfungsi
+global.prems = ['6285876617548'] //ganti pakai nomormu biar bot berfungsi
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'ᴹᴿ᭄ DaniBotzOffcོ_1ঔৣ꧂'
